@@ -1,0 +1,35 @@
+{
+  "name": "nest-backend",
+  "description": "This is backend (statistics) - RESTFul API for Nest",
+  "version": "0.1.2",
+  "author": "Vladimir Minkin @INBREATHE, 2015-2016",
+  "license": "Creative Commons (CC) License",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "agenda": "*",
+    "body-parser": "*",
+    "bson": "^0.4.7",
+    "cookie-parser": "*",
+    "debug": "*",
+    "express": "*",
+    "hbs": "*",
+    "jade": "*",
+    "jsonfile": "*",
+    "less-middleware": "1.0.x",
+    "lodash": "^3.10.1",
+    "mega": "*",
+    "moment": "^2.10.3",
+    "moment-timezone": "^0.4.0",
+    "mongodb": "*",
+    "morgan": "~1.3.0",
+    "pmx": "^0.3.20",
+    "q": "^1.0.1",
+    "serve-favicon": "~2.1.3"
+  }
+}

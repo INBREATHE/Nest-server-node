@@ -1,0 +1,189 @@
+/* 0 */
+{
+    "_id" : ObjectId("55acdaa26c87faf92774bf70"),
+    "id" : 1,
+    "lng" : "ru",
+    "isActive" : true,
+    "title" : "Добро пожаловать!",
+    "message" : "Здравствуйте, мы рады приветствовать вас в Playwords Logic Lite."
+}
+
+/* 1 */
+{
+    "_id" : ObjectId("55acdab76c87faf92774bf71"),
+    "id" : 2,
+    "lng" : "ru",
+    "isActive" : true,
+    "title" : "Новое сообщение!",
+    "message" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. \nPellentesque leo lacus, rutrum et urna at, dignissim vulputate sapien. Nulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("55acdac06c87faf92774bf72"),
+    "id" : 3,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение!",
+    "message" : "Pellentesque leo lacus, rutrum et urna at, dignissim vulputate sapien. Nulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("55acdad96c87faf92774bf73"),
+    "id" : 4,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Совсем новое сообщение!",
+    "message" : "<b>Pignissim vulputate sapien.</b> \n\nNulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("55ad4e156c87faf92774bf74"),
+    "id" : 5,
+    "lng" : "ru",
+    "isActive" : true,
+    "title" : "New Active Message!",
+    "message" : "Здравствуйте, мы рады приветствовать вас в Playwords Logic Lite. Здравствуйте, мы рады приветствовать вас в Playwords Logic Lite. Здравствуйте, мы рады приветствовать вас в Playwords Logic Lite."
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("55ad4f656c87faf92774bf75"),
+    "id" : 6,
+    "lng" : "ru",
+    "isActive" : true,
+    "title" : "New Active Message! 1",
+    "message" : "Здравствуйте, мы рады приветствовать вас в Playwords Logic Lite. Здравствуйте, мы рады приветствовать вас в Playwords Logic Lite. Здравствуйте, мы рады приветствовать вас в Playwords Logic Lite."
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("55ae6cb476124a8350636595"),
+    "id" : 7,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 2",
+    "message" : "Pellentesque leo lacus, rutrum et urna at, dignissim vulputate sapien. Nulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("55ae6cc276124a8350636596"),
+    "id" : 8,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 3",
+    "message" : "Pellentesque leo lacus, rutrum et urna at, dignissim vulputate sapien. Nulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("55ae6ced76124a8350636597"),
+    "id" : 9,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 4",
+    "message" : "Pellentesque leo lacus, rutrum et urna at, dignissim vulputate sapien. Nulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("55ae6cfb76124a8350636598"),
+    "id" : 10,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 5",
+    "message" : "Pellentesque leo lacus, rutrum et urna at, dignissim vulputate sapien. Nulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("55ae6e9e76124a8350636599"),
+    "id" : 11,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 7",
+    "message" : "Pellentesque leo lacus, rutrum et urna at, dignissim vulputate sapien. Nulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("55ae6ea976124a835063659a"),
+    "id" : 12,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 8",
+    "message" : "Pellentesque leo lacus, rutrum et urna at, dignissim vulputate sapien. Nulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("55ae8a3b76124a835063659b"),
+    "id" : 13,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 9",
+    "message" : "Pellentesque leo lacus, rutrum et urna at, dignissim vulputate sapien. Nulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("55ae8a4c76124a835063659c"),
+    "id" : 14,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 10",
+    "message" : "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum. Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("55af626076124a835063659d"),
+    "id" : 14,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 10",
+    "message" : "Quisque ac aliquet lectus, a condimentum dui. Pellentesque egestas tempus nulla, eget ultrices erat convallis sit amet. Fusce urna sem, elementum sed vehicula vel, vulputate nec augue. Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("55af627076124a835063659e"),
+    "id" : 15,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 11",
+    "message" : "Vivamus consequat, diam eu ullamcorper accumsan, mauris nisl ultricies leo, et porttitor nisl felis fringilla lacus. Nunc sit amet gravida nibh, vulputate finibus dolor."
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("55af628276124a835063659f"),
+    "id" : 16,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 12",
+    "message" : "Pellentesque leo lacus, rutrum et urna at, dignissim vulputate sapien. Nulla facilisi. Nunc ornare in magna at efficitur. Phasellus posuere lacinia tempor. Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum."
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("55af629276124a83506365a0"),
+    "id" : 17,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 13",
+    "message" : "Maecenas eu tristique metus. Ut sagittis blandit gravida. Nulla eget vulputate libero, et rhoncus enim. Donec tincidunt ut augue eget viverra. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum."
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("55af62ac76124a83506365a1"),
+    "id" : 18,
+    "isActive" : true,
+    "lng" : "ru",
+    "title" : "Еще одно сообщение! 14",
+    "message" : "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce consectetur tempor tellus quis rutrum. Nullam laoreet neque quis bibendum fermentum."
+}
